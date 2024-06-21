@@ -6,3 +6,4 @@ tensorflow
 Python-IO
 pybase64
 matplotlib
+opencv-python
