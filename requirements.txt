@@ -7,5 +7,4 @@ Python-IO
 pybase64
 matplotlib
 opencv-python
-opencv-python-headless
 easyocr
