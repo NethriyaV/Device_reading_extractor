@@ -11,7 +11,7 @@ from tensorflow.keras.preprocessing import image
 from tensorflow.keras.applications.inception_v3 import preprocess_input
 
 # Load the model
-model = load_model('device_classification_model.h5')
+model = load_model('device1.h5')
 
 # Define the classes
 classes = ['blood pressure set', 'breast pump', 'commode', 'crutch',
