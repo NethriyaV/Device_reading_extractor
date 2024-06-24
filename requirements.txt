@@ -7,3 +7,4 @@ pybase64
 matplotlib
 opencv-python
 easyocr
+opencv-contrib-python
